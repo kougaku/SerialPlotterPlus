@@ -1,5 +1,5 @@
 # Serial Plotter Plus
-Serial Plotter created with Processing
+Serial lotter created with Processing
 
 <img src="/screenshot.gif">
 
